@@ -1,0 +1,66 @@
+.bm-burger-button {
+  position: fixed;
+  width: 32px;
+  height: 28px;
+  left: 28px;
+  top: 28px;
+}
+
+.bm-burger-bars {
+  background: #fff;
+}
+
+.bm-burger-bars-hover {
+  background: #00b1ff;
+}
+
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+.bm-cross {
+  background: #1e1e1e;
+}
+
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #1e1e1e;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #1e1e1e;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #b8b7ad;
+  padding: 0.8em;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+
+  color: #d1d1d1;
+  margin-bottom: 10px;
+  text-align: left;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.bm-item:hover {
+  color: #ffffff;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
