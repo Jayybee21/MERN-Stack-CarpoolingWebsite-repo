@@ -1,4 +1,4 @@
-#Carpooling Project
+# MERN Stack Carpooling Project
 
 This project has been created for a carpooling application, it is intended to be a website for admins of the carpooling business
 the website includes an authentication page, a dashboard page displaying the statistics of the application and a two pages to 
